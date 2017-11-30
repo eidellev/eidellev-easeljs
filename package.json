@@ -1,0 +1,8 @@
+{
+  "name": "eidellev-easeljs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/eidellev/eidellev-easeljs.git",
+  "author": "eidellev",
+  "license": "MIT"
+}
