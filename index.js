@@ -1,1 +1,1 @@
-require('./lib/easeljs');
+module.exports = require('./lib/easeljs');
